@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7b906d6-9ba2-4310-8807-da93ef449281" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../signavio-jira-integration/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../signavio-jira-integration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../signavio-jira-integration/src/main/java/org/sap/hcm/cs/jira/JiraApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../signavio-jira-integration/src/main/java/org/sap/hcm/cs/jira/JiraApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="e7b906d6-9ba2-4310-8807-da93ef449281" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +96,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588915944380</updated>
-      <workItem from="1588915946546" duration="5284000" />
+      <workItem from="1588915946546" duration="6184000" />
     </task>
+    <task id="LOCAL-00001" summary="update Payment8001">
+      <created>1588924303123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588924303123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,5 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update Payment8001" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Payment8001" />
   </component>
 </project>
